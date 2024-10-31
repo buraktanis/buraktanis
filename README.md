@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Cultural Market](https://github.com/buraktanis/culturalmarket)
 - 🔭 I’m currently working on [TUBITAK 1507 ]
 
-- 📝 I regularly write articles on [buraktanis.com.tr](buraktanis.com.tr)
+- 📝 My website: [buraktanis.com.tr](buraktanis.com.tr)
 
 - 💬 Ask me about **C#,.NET Core, Java, Spring Boot, Python, HTML, CSS, JavaScript**
 
