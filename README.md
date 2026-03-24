@@ -22,16 +22,9 @@ Building MVPs & scalable products for startups.
 
 ---
 
-### 📌 Current Work
-- [Cultural Market](https://github.com/buraktanis/culturalmarket)
-- TUBITAK 1507 Project
-
----
-
 ### 🌐 Links
-- Website: https://buraktanis.com.tr  
-- LinkedIn: https://linkedin.com/in/burak-tanis/  
-- Email: bburaktaniss@gmail.com  
+- Website: https://startapp.work 
+- Email: burak@startapp.work 
 
 ---
 
